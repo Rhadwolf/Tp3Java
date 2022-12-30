@@ -1,0 +1,86 @@
+[
+
+{"id": 1, 
+"tipo":"antioxidantes", 
+"nombre":"Maqui", 
+"precio": 9400, 
+"cantidad": 1,
+"img": 
+"https://imgs.search.brave.com/VlFnBWr3GgSxcUOCjEH05ZC_OjgthR4jAWPwtLUiZLE/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5K/NTNxclBOVU40c2F6/azBIZ0R3b0RBSGFI/YSZwaWQ9QXBp"
+},
+{"id": 2, 
+"tipo":"antioxidantes", 
+"nombre":"Sauco", 
+"precio": 5400, 
+"cantidad": 1,
+"img": 
+"https://imgs.search.brave.com/6nVpOyPkwNRbtz3nJsIi_vB7E0P1ZoReglc-YvOaAyc/rs:fit:359:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5R/Q3N3OWpJNDdoZGZr/ZGpwQU0ydG9RQUFB/QSZwaWQ9QXBp"
+},
+{"id": 3, 
+"tipo":"remedios", 
+"nombre":"Inmunovid", 
+"precio": 1000, 
+"cantidad": 1,
+"img": 
+"https://imgs.search.brave.com/iRQ-vy7wE0xrACFoI7vpGxuU7TtASTiDHRB9VaDx19s/rs:fit:458:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5B/S1ZfSElWWjZmSndQ/bDRXSlZKc3V3QUFB/QSZwaWQ9QXBp"
+},
+{"id": 4, 
+"tipo":"remedios", 
+"nombre":"Colonaliv", 
+"precio": 1400,
+"cantidad": 1,
+"img": 
+     "https://imgs.search.brave.com/k84Wx9I41A_4U4GCOczV61G0n9MpFHpLOi-GwfgBVb4/rs:fit:460:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5o/a3pTS0RKRUhrUnhn/Y2hJZzE3ZXlnQUFB/QSZwaWQ9QXBp"
+},
+{"id": 4, 
+"tipo":"remedios", 
+"nombre":"Colonaliv", 
+"precio": 1400,
+"cantidad": 1, 
+"img": 
+   "https://imgs.search.brave.com/k84Wx9I41A_4U4GCOczV61G0n9MpFHpLOi-GwfgBVb4/rs:fit:460:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5o/a3pTS0RKRUhrUnhn/Y2hJZzE3ZXlnQUFB/QSZwaWQ9QXBp"
+},    
+{"id": 5, 
+"tipo":"frutos secos",
+"nombre":"Granola",
+"precio": 1000, 
+"cantidad": 1,
+"img": 
+    "https://imgs.search.brave.com/qgRBiMR4Bz-pRoA1KH9BQS6yBJ8z0dOv0EyWtpfB_qE/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5x/V0IzMUJudkJBVmRK/NUt4Q0p3eS13SGFI/YSZwaWQ9QXBp"
+},
+{"id": 6, 
+"tipo":"frutos secos",
+"nombre":"Nueces", 
+"precio": 1500,
+"cantidad": 1,
+"img": 
+    "https://imgs.search.brave.com/W048HxVXA-uUWu4yAXi5iiJypVBLwTUxxq0VenkLtpk/rs:fit:458:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5N/dTVpdmFNMk5CMG04/cXh1VVlsblRBQUFB/QSZwaWQ9QXBp"
+        
+
+},
+{"id": 7, 
+"tipo": "frutos secos", 
+"nombre": "Almendras", 
+"precio": 1000,
+"cantidad": 1,
+"img": 
+    "https://imgs.search.brave.com/SLbf_ipBjloJpIgWgajno3KCqGkX2gTUuPpnRTdr_Z4/rs:fit:472:225:1/g:ce/aHR0cHM6Ly90c2Uz/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5BRF9QZFE3/QWltNW1yQUZTdGFy/M0RnQUFBQSZwaWQ9/QXBp"
+},
+        
+{"id": 8, 
+"tipo": "suplementos", 
+"nombre": "Barras de proteina", 
+"precio": 3800,
+"cantidad": 1,
+"img": 
+    "https://imgs.search.brave.com/Sk3nfeeoXvSuXk4t-OYQpBweo_vi5aUqgUh6JFEf9fg/rs:fit:452:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5T/WktsRUZ5akd1TjJT/QjVFOWs4UGhBQUFB/QSZwaWQ9QXBp"
+},
+{"id": 9, 
+"tipo": "suplementos", 
+"nombre": "Creatina", 
+"precio": 3800,
+"cantidad": 1,
+"img": 
+    "https://imgs.search.brave.com/AkPIcv7XanycJwEC0kgz9vQq7sDiHZGM1dmDsReUgXY/rs:fit:460:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC52/YUdNNWM4TGtwUlBG/OWlBcWx2M1B3QUFB/QSZwaWQ9QXBp"
+ }
+]
