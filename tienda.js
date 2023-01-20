@@ -30,6 +30,7 @@ productos.forEach((product)=> {
         precio: product.precio,
         cantidad: product.cantidad,
     });
+    swal("Producto agregado al Carrito", "", "success");
     saveLocal();
  });
 });
@@ -76,6 +77,7 @@ productos.forEach((product)=> {
                 product.cantidad--;}
             saveLocal();
             pintarCarrito();
+            swal("Producto restado", "", "success");
               
         });
         let sumar = carritoContent.querySelector(".sumar")
@@ -84,7 +86,7 @@ productos.forEach((product)=> {
             product.cantidad++;
             saveLocal();
             pintarCarrito();
-              
+            swal("Producto sumado", "", "success");
         });
         
         let eliminar = document.createElement("span");
@@ -92,8 +94,11 @@ productos.forEach((product)=> {
         eliminar.className = "delete-product";
         carritoContent.append(eliminar);
         eliminar.addEventListener("click" , eliminarProducto);
+        
+        
+
     });
-    
+
     const total = carrito.reduce((acc, el) => acc + el.precio, 0);
 
     const totalBuying = document.createElement("div");
